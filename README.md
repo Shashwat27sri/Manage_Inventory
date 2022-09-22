@@ -43,9 +43,13 @@ Format: DELETE $item_name$ $quantity$
 Total Items in Inventory:
 
 *Constraints*
+      
       1 \leq T \leq 251≤T≤25
+      
       1 \leq N \leq 1001≤N≤100
+      
       1 \leq M \leq 1001≤M≤100
+      
 
   Operations will be either ADD or DELETE in capitals
       1 \leq1≤ quantities of each item \leq 100≤100
